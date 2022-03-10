@@ -15,8 +15,4 @@ function Pagination() {
     </div>
   );
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> b6635d9a8fcba852e15d00d2f180a6efbf59a5fd
 export default Pagination;
