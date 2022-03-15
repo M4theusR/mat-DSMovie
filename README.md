@@ -8,4 +8,5 @@
 > Basta abrir o link *https://matdsmovie.netlify.app* e aguardar entre 1 a 2 minutos até que o heroku seja iniciado e em seguida poderá acessar normalmente a aplicação.
 
 ## Imagens do projeto
-[DSMovie.pdf](https://github.com/M4theusR/mat-DSMovie/files/8250460/DSMovie.pdf)
+![DSMovie](https://user-images.githubusercontent.com/95398416/158313798-26202e3c-0f17-4366-b1b0-c329237359ad.png)
+
