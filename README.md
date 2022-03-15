@@ -5,4 +5,7 @@
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
 
 ## Link do projeto na nuvem
-> *https://matdsmovie.netlify.app*
+> Basta abrir o link *https://matdsmovie.netlify.app* e aguardar entre 1 a 2 minutos até que o heroku seja iniciado e em seguida poderá acessar normalmente a aplicação.
+
+## Imagens do projeto
+[DSMovie.pdf](https://github.com/M4theusR/mat-DSMovie/files/8250460/DSMovie.pdf)
